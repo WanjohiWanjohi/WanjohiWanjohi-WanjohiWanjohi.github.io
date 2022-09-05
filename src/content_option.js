@@ -11,7 +11,7 @@ const introdata = {
         second: "I teach LEGO robotics & Scratch.",
         third: "I develop scalabale data pipelines.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Data scientist turned full stack application devloper",
     your_img_url: "https://photos.google.com/share/AF1QipMdQ78UMu5NZlxT5jCZo7oki-MhwIKask_3OLh8I72yakXjolcQvivA2xOPmES77g/photo/AF1QipMGZJgj5fXF0O-n366Oavd8yNJGufkTm-kI-cjG?key=U2stSk9TVmtZZ1FyQ3RmS0I4TzNKU1VPM1k0azVn",
 };
 
