@@ -128,6 +128,4 @@ export {
     contactConfig,
     socialprofils,
     logotext,
-
-
-};
+}
